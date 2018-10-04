@@ -4,7 +4,7 @@ package core;
 
 	public class Card // Card class  contains a rank and suit variable
 	{
-	    private short rank, suit;
+	    private short rank, suit; ////
 	    private static String[] suits = { "H", "S", "D", "C" };
 	    private static String[] ranks  = { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K" };
 
